@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5a4990c-29ab-4e66-878a-c9b64d042043" name="Default Changelist" comment="初始文件">
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/chapter1/MyStack2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b5a4990c-29ab-4e66-878a-c9b64d042043" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/chapter2/MyStack2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,13 +29,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/algorithm/chapter1/MyStack2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/algorithm/chapter2/MyStack2.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -65,6 +69,7 @@
         <option value="$PROJECT_DIR$/src/com/test/StatusInfo.java" />
         <option value="$PROJECT_DIR$/src/com/test/EncryptUtils.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/chapter1/MyStack1.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/chapter2/MyStack2.java" />
       </list>
     </option>
   </component>
@@ -114,6 +119,14 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="chapter1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -134,6 +147,9 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.algorithm.chapter2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Project\IDEA\java\src\com\test" />
     </key>
@@ -170,7 +186,7 @@
       <workItem from="1569574499395" duration="150000" />
       <workItem from="1569574679651" duration="444000" />
       <workItem from="1569718470280" duration="1939000" />
-      <workItem from="1579508329018" duration="1213000" />
+      <workItem from="1579508329018" duration="1288000" />
     </task>
     <task id="LOCAL-00001" summary="初始文件">
       <created>1579509054744</created>
@@ -186,15 +202,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579509152177</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="初始文件">
+      <created>1579509581717</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579509581717</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8643000" />
+    <option name="totallyTimeSpent" value="8718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -290,6 +312,9 @@
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/chapter2/MyStack2.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
