@@ -3,6 +3,7 @@ package com.algorithm.chapter1;
 import java.util.Stack;
 
 /**
+ * 设计一个有getMain功能的栈
  * @Author YongQiang
  * @Date 2020/1/20 16:39
  * @Version 1.0

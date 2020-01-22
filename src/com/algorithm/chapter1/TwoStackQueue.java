@@ -3,6 +3,7 @@ package com.algorithm.chapter1;
 import java.util.Stack;
 
 /**
+ * 由两个栈组成队列
  * @Author YongQiang
  * @Date 2020/1/21 16:19
  * @Version 1.0
